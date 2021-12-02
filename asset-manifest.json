@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/minecalc/static/css/main.5aa63214.chunk.css",
+    "main.js": "/minecalc/static/js/main.47a007d9.chunk.js",
+    "main.js.map": "/minecalc/static/js/main.47a007d9.chunk.js.map",
+    "runtime-main.js": "/minecalc/static/js/runtime-main.b947af0a.js",
+    "runtime-main.js.map": "/minecalc/static/js/runtime-main.b947af0a.js.map",
+    "static/js/2.50599ba4.chunk.js": "/minecalc/static/js/2.50599ba4.chunk.js",
+    "static/js/2.50599ba4.chunk.js.map": "/minecalc/static/js/2.50599ba4.chunk.js.map",
+    "static/js/3.d771270a.chunk.js": "/minecalc/static/js/3.d771270a.chunk.js",
+    "static/js/3.d771270a.chunk.js.map": "/minecalc/static/js/3.d771270a.chunk.js.map",
+    "index.html": "/minecalc/index.html",
+    "static/css/main.5aa63214.chunk.css.map": "/minecalc/static/css/main.5aa63214.chunk.css.map",
+    "static/js/2.50599ba4.chunk.js.LICENSE.txt": "/minecalc/static/js/2.50599ba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b947af0a.js",
+    "static/js/2.50599ba4.chunk.js",
+    "static/css/main.5aa63214.chunk.css",
+    "static/js/main.47a007d9.chunk.js"
+  ]
+}
